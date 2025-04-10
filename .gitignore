@@ -1,0 +1,20 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyCharm
+.idea/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Model files
+*.ckpt
+*.pt
+*.pth
+*.bin
+
+# Environment files
+.env
+.venv/
