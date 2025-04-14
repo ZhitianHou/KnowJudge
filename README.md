@@ -2,8 +2,6 @@
 
 📄 Our paper "KnowJudge: A Knowledge-Driven Framework for Legal Judgment Prediction" has been accepted to CogSci 2025 🎉
 
-💡 Code and models will be released soon — stay tuned! 🚀
-
 ![Framework](assets/framework.png)
 
 ## 🚀 Usage
